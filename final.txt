@@ -1,0 +1,2 @@
+finalmente luego de crear dos nuevos archivos dentro de git hub. Luego usando git pull sincronizamos estos archivos del remoto al local, es decir del git hub al git bush. Por ultimo usamos git clone con la direccion https indicada por el docente para descargar su contenido.
+Conlusion: Sentimos que pudimos lo que aprendimos en clase y terminar de entender cada comando y su utilidad 
